@@ -57,4 +57,4 @@ if uploaded_file:
         # Display coefficients
         st.write("### Model Coefficients")
         coeff_df = pd.DataFrame({"Feature": features, "Coefficient": model.coef_})
-        st.write(coeff_df)\
+        st.write(coeff_df)
