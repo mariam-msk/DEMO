@@ -1,1 +1,5 @@
-pip install streamlit pandas sklearn matplotlib
+pip install streamlit pandas sklearn matplotlib 
+pandas
+numpy
+scikit-learn
+matplotlib
